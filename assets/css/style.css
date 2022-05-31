@@ -1,0 +1,23 @@
+*{
+    margin: 0;  
+    padding: 0; 
+    box-sizing: border-box;
+    }
+
+
+
+.cuadro1{
+    background-image: url(../img/taza.jpg);
+    background-size: cover;
+    height: 600px;
+    margin: 0 !important;
+}
+
+.parafo1{
+color: black;
+font-family: 'Roboto', sans-serif;
+font-size: 40px;
+font-weight:bold;
+padding-left: 20px;
+}
+
