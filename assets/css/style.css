@@ -21,3 +21,15 @@ font-weight:bold;
 padding-left: 20px;
 }
 
+footer{
+background-color: black;
+height: 50px;
+}
+
+.containerfinal{
+text-align: center;
+}
+
+.final{
+color: white;
+}
