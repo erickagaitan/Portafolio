@@ -26,6 +26,10 @@ font-size: 20px;
     margin: 0 !important;
 }
 
+.imagen1{
+height: 57%;
+}
+
 .parafo1{
 color: black;
 font-family: 'Roboto', sans-serif;
@@ -47,4 +51,5 @@ text-align: center;
 color: white;
 font-family: 'Roboto', sans-serif;
 font-size: 20px;
+padding: 9px;
 }
